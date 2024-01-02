@@ -5,7 +5,6 @@
 		"movement": 3,
 		"strength": 8,
     		"uniqueTo": "Adrian",
-    		"replaces": "Settler",,
 	},{
 		"name": "Warrior3",
 		"unitType": "Sword",
