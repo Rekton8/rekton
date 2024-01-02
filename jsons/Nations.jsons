@@ -1,7 +1,7 @@
 {
   		"name": "Adrian",
 		"leaderName": "Adrián",
-		"adjective": ["Babylonian"],
+		"adjective": ["Adrian"],
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Scientific",
 
