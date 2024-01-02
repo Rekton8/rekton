@@ -1,4 +1,5 @@
-{
+[
+		{
   		"name": "Adrian",
 		"leaderName": "Adrián",
 		"adjective": ["Adrian"],
@@ -25,4 +26,31 @@
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+		},{
+		"name": "KittyCiv",
+		"leaderName": "Orión",
+		"adjective": ["Kitty"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Miau",
+		"startIntroPart2": "MiaU maRraMiaO",
+		
+		"declaringWar": "Tenemos seis vidas de ventaja",
+		"attacked": "miau",
+		"defeated": "Miauuuuuuuu *microondas*",
+		"introduction": "Joan siempre acaba perdiendo",
+
+		
+		"afterPeace": "Demasiadas vidas hechadas a perder",
+		"tradeRequest": "Miau?",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": ["Starts with [Order] adopted"],
+		"cities": ["Xolék","Q'Persa","Q'Azul Ruso","Q'Siamés","Q'Angora Turco","Q'Siberiano","Q'Maine Coon","Q'Bengalí","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Pito grande"]
 	}
+]
