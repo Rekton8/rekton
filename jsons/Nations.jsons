@@ -1,5 +1,6 @@
 [
-		{
+	{
+
   		"name": "Adrian",
 		"leaderName": "Adrián",
 		"adjective": ["Adrian"],
@@ -26,7 +27,8 @@
 			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
 			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
 			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
-		},{
+	},{
+
 		"name": "KittyCiv",
 		"leaderName": "Orión",
 		"adjective": ["Kitty"],
